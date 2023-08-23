@@ -14,6 +14,8 @@ The BMI Calculator app was made during an Udemy course by Vin Norman, in order t
 </table>
 
 <h2> 📱 Features
+
+***
   
 <h5>
   
